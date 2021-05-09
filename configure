@@ -1,0 +1,1 @@
+--enable-static --enable-shared --disable-doxygen-doc --disable-doxygen-dot --disable-examples --disable-maintainer-mode
